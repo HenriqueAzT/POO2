@@ -36,7 +36,6 @@ public class Aluno {
 	}
 	
 	public Aluno(int id, String nome, String sexo, LocalDate dt_nasc, float nota) {
-		super();
 		this.id = id;
 		this.nome = nome;
 		this.sexo = sexo;
